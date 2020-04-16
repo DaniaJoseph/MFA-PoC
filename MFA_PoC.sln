@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twilo", "MFA_PoC\Twilo.csproj", "{F857ADA6-35A7-4FC6-A50D-322704DF96F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F857ADA6-35A7-4FC6-A50D-322704DF96F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F857ADA6-35A7-4FC6-A50D-322704DF96F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F857ADA6-35A7-4FC6-A50D-322704DF96F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F857ADA6-35A7-4FC6-A50D-322704DF96F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1EE31D7-E714-43F3-A485-956556FBAFE0}
+	EndGlobalSection
+EndGlobal
